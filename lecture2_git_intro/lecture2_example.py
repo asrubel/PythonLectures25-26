@@ -1,1 +1,1 @@
-print("KhAI, Python course")
+print("KhAI, Python course, 2025")
