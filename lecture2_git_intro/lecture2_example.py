@@ -1,0 +1,1 @@
+print("KhAI, Python course")
