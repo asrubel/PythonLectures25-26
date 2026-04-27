@@ -14,6 +14,7 @@ packaging==26.1
 pluggy==1.6.0
 Pygments==2.20.0
 pytest==9.0.3
+PyYAML==6.0.3
 requests==2.33.1
 soupsieve==2.8.3
 typing_extensions==4.15.0

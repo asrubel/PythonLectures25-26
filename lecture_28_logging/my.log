@@ -1,0 +1,11 @@
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:7] - DEBUG: debug message
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:8] - INFO: info message
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:9] - WARNING: warning message
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:12] - ERROR: My Logger caused error
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:17] - ERROR: Division by zero error
+2026-04-27 10:07:09 - lecture_28_file_logging.py[line:18] - ERROR: ZeroDivisionError
+Traceback (most recent call last):
+  File "/Users/oleksiirubel/PycharmProjects/PythonLectures-25-26/lecture_28_logging/lecture_28_file_logging.py", line 15, in <module>
+    c = 5 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
